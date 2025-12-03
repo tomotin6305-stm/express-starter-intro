@@ -19,7 +19,8 @@ These endpoints are intentionally simple to help understand:
 
 ## Project Structure
 
-"""express-starter-intro/
+```
+express-starter-intro/
 ├─ src/
 │ ├─ app.js
 │ └─ routes/
@@ -27,7 +28,8 @@ These endpoints are intentionally simple to help understand:
 ├─ server.js
 ├─ package.json
 ├─ package-lock.json
-└─ README.md"""
+└─ README.md
+```
 
 ## How to Run
 
