@@ -33,8 +33,10 @@ express-starter-intro/
 
 ## How to Run
 
-"npm install
-node server.js"
+```
+npm install
+node server.js
+```
 
 
 Access the sample endpoints:
